@@ -10,6 +10,9 @@ This project showcases how to:
 - Use Model Context Protocol (MCP) for AI-assisted test automation
 - Navigate multi-tab scenarios in web testing
 
+## Result Record
+
+
 ## Documentation
 
 This project includes comprehensive documentation:
